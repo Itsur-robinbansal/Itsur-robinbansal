@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Itsur-robinbansal
-- 👀 I’m interested in coding
+- 👀 I’m interested in Programming
 - 🌱 I’m currently Studying in IIITN
-- 💞️ I’m looking to study more deeply in competition programming
-- 📫 How to reach me bt21cse077@iiitn.ac.in
+- 💞️ I’m looking to study more deeply in web development and data science
+- 📫 How to reach me robinkb200204@gmail.com
 
 <!---
 Itsur-robinbansal/Itsur-robinbansal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
